@@ -1,0 +1,43 @@
+
+#logo{
+
+	width: 100px;
+	margin-left: 25%;
+}
+#titulo{
+
+	font-size: 60;
+	margin-left: 25%;
+	color: #ffffff !important;
+}
+.navbar{
+
+	min-height: 100% !important;
+	width: auto !important;
+	position: relative !important;
+	background-color: #000000 !important;
+
+}
+body {
+
+	position: relative;
+	background-image:url(../img/aiesec1.jpg) !important;
+	background-size: cover!important;
+	height:100% !important;
+
+}
+#btn-go{
+
+	margin-left: 50%; 
+	background-color: #000000 !important;
+	border: #000000 !important;
+	width: 70px;
+	height: 70px;
+	font-size: 30px; 
+}
+.text_rockers{
+
+	margin-left: 48%;
+	color: #ffffff !important;
+
+}
